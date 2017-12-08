@@ -103,17 +103,17 @@ CUF troubles: an alternative solution
 
 Let's collect assumptions as to why CUF is necessary and what properties do you want from the system.
 
-1. A creator has put a value on certain rewards (which is the monthly cost of the tier). If someone is getting that reward, the creator wants to guarantee that at least this much is paid.
+[1] A creator has put a value on certain rewards (which is the monthly cost of the tier). If someone is getting that reward, the creator wants to guarantee that at least this much is paid.
 
 This excludes pro-rating the first payment. The first payment must be at least 1 month.
 
-2. A patron should never pay more than expected for the time he has access to rewards, e.g. not paying 2 months worth for 1 month + a day from your example.
+[2] A patron should never pay more than expected for the time he has access to rewards, e.g. not paying 2 months worth for 1 month + a day from your example.
 
 This is the problem with the current system that you want to eliminate. 
 
 There's one more implicit assumption:
 
-3. A patron should not pay for more than one month in advance at any point.
+[3] A patron should not pay for more than one month in advance at any point.
 
 This excludes the solution "pay for 1.5 months initially if you start in the middle of a month". First payment must not be more than one month, and therefore must be _exactly_ one month.
 
