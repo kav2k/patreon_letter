@@ -30,7 +30,7 @@ Still, it does not mean that creators must go without compensation. Ad support i
 
 There can be premium products alongside the free ones ― such as physical merchandise. There are plenty of platforms for merchandise, but a significant number of potential patrons doesn't want this form of support: production, shipping and taxes can eat up a lot of money, physical things require space to store them, and require a substantial investment from the buyer for little profit to the creator. Digital premium goods avoid this problem, but it's still a one-off purchase, resulting in unpredictable income for the creator.
 
-Alongside that, there have always been people who were ready to give their money to simply support creators of their choice, with no expectations of rewards other than warm fuzzy feeling of helping. The problem, of course, is setting this up. Becoming a beneficiary of payments that are easy for other people to set up is hard. Not many platforms do this, PayPal being a notable player in the field. However, you have high transaction fees per each payment, which scale badly at the low end of the spectrum. Anecdotally, paying something like $1 over and over can run into negative income for the receiver due to fees. Add to that the fact that PayPal is infamously fickle in how it decides to handle incoming money ― possibly blocking it with little recourse.
+Alongside that, there have always been people who were ready to give their money to simply support creators of their choice, with no expectations of rewards other than a warm fuzzy feeling of helping. The problem, of course, is setting this up. Becoming a beneficiary of payments that are easy for other people to use is hard. Not many platforms do this, PayPal being a notable player in the field. However, you have high transaction fees per each payment, which scale badly at the low end of the spectrum. Anecdotally, paying something like $1 over and over can run into negative income for the receiver due to fees. Add to that the fact that PayPal is infamously fickle in how it decides to handle incoming money ― possibly blocking it with little recourse.
 
 Setting up recurring payments ― a holy grail of predictability for creators ― is yet another can of worms. Smaller recurrent payments run into comparatively higher fees, wasting everyone's resources to the profit of payment processors. Many problems, with no clear solutions.
 
@@ -46,7 +46,7 @@ Patreon provides **a trusted platform, backed by its reputation,** to host campa
 
 It's a valuable communication tool that works both ways, connecting creators and their fans.
 
-The platform enjoys transparency, with patrons being able to estimate the level of support a creator is already getting (though we now learn just how unpredictable the nature of creator fees was).
+The platform enjoys transparency, with patrons being able to estimate the level of support a creator is already getting (though we are now learning just how unpredictable the nature of creator fees was).
 
 It enjoys a network effect: once "onboarded", **a patron is likely to pledge for other creators on the same platform due to drastically reduced friction.**
 
@@ -57,13 +57,13 @@ Finally, there's an important financial incentive. There are still external proc
 Patreon: the troubles
 ---
 
-The system described above functioned well for the most part. Except for one problem: people being people frauds.
+The system described above functioned well for the most part. Except for one problem: people being frauds.
 
 A pledge is just that: a _promise_ to pay later. However, Patreon immediately unlocks the tangible rewards. This opens the door to promising to pay, collecting rewards, and ending up not paying.
 
 Let me note at this point that **rewards should not be the focus of Patreon to begin with.** They were always extra nice things next to the main purpose of supporting the creator. Not all campaigns even offer any ― some deliberately state that knowing you're supporting the creator is the only reward. However, it is understandable that such exclusive rewards are desirable and drive the participation. And it only makes sense to get access immediately.
 
-Okay; this is a valid problem. You came up with a solution of an optional **Charge Up Front (CUF)** mode. This guarantees at least one full cycle of payment by charging it immediately. But, as you noted in the blog post, this leads to an anomaly: no matter where you pay in your first month, you pay the whole amount for that part, followed to full amount again next calendar month. It can get as bad as paying a full month's price for one day if you pledge on the last day of a month.
+Okay; this is a valid problem. You came up with a solution of an optional **Charge Up Front (CUF)** mode. This guarantees at least one full cycle of payment by charging it immediately. But, as you noted in the blog post, this leads to an anomaly: no matter where you pay in your first month, you pay the whole amount for that part, followed by a full amount again on next calendar month. It can get as bad as paying a full month's price for one day if you pledge on the last day of a month.
 
 **This is both confusing and unfair. I would not disagree!** However, your proposed solution isn't really fixing either of those problems, at least not from the patron perspective.
 
@@ -191,7 +191,7 @@ Remedies / conclusions
 
 Regardless of the path you take now, it will be hard to win back the trust of your users. I am but one of them, but here's my view on what you can do to improve.
 
-1. **Stop, and listen.** It should be clear for the reaction you are getting that your plan needs adjustment, re-framing, or scrapping. **The first step should be to postpone the plan.** You, and the users, need time to assess the situation ― **don't let it go into effect in 10 days.**
+1. **Stop, and listen.** It should be clear from the reaction you are getting that your plan needs adjustment, re-framing, or scrapping. **The first step should be to postpone the plan.** You, and the users, need time to assess the situation ― **don't let it go into effect in 10 days.** [Edit: To clarify, per-creation payments from December 18th on [will follow the new rules](https://patreon.zendesk.com/hc/en-us/articles/115005631963#patron)]
 
 2. **Take another look at your data, taking into account the reaction you're getting.** You're bleeding off pledges, especially small pledges, as a result of the changes. Extrapolate. Is this sustainable for your creators if you lose a big chunk of $1-$2 pledges?
 
@@ -219,3 +219,9 @@ _This open letter will be sent to the CEO of Patreon, Jack Conte, to the Patreon
 _It will be publicly displayed at https://kav2k.github.io/patreon_letter_
 
 _I can be reached at `alexander [at] kashev.me` or on Twitter: [@kav2k](https://twitter.com/kav2k)._
+
+---
+
+This letter was originally published on 2017-12-08. It has undergone 1 revision since then (mostly to correct a few typos).  
+I apologize for any errors remaining (I am, after all,  not a native speaker).  
+You can see the original version that got sent to Jack Conte at [this revision](https://github.com/kav2k/patreon_letter/blob/ce294447b78a9e9177206dfe04ac0f7d5a2c386a/README.md).
